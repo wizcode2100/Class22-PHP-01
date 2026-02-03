@@ -1,0 +1,9 @@
+
+
+PHP => Hypertext Pre Processor
+Backend Language => Server->Database
+
+
+for (initialize;range/condition;increment){
+    //Statement...
+}
